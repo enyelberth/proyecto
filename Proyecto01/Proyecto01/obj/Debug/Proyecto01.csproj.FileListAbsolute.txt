@@ -1,0 +1,5 @@
+C:\Users\enyelberth\Desktop\Proyecto01\Proyecto01\obj\Debug\Proyecto01.csprojResolveAssemblyReference.cache
+C:\Users\enyelberth\Desktop\Proyecto01\Proyecto01\bin\Debug\Proyecto01.exe
+C:\Users\enyelberth\Desktop\Proyecto01\Proyecto01\bin\Debug\Proyecto01.pdb
+C:\Users\enyelberth\Desktop\Proyecto01\Proyecto01\obj\Debug\Proyecto01.exe
+C:\Users\enyelberth\Desktop\Proyecto01\Proyecto01\obj\Debug\Proyecto01.pdb
